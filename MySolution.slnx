@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MyHub/MyHub.csproj" />
+  <Project Path="MySDK/MySDK.csproj" Id="a5a36b42-62b7-4444-a776-141aecbf7be0" />
+  <Project Path="MyTask/MyTask.csproj" Id="fa53caff-ddb7-4b7b-af92-c807a96f00ba" />
+</Solution>
